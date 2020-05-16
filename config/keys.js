@@ -1,3 +1,3 @@
 module.exports={
-    mongoURL : 'mongodb://localhost:27017/Shopping'
+    mongoURL : 'mongodb+srv://Mohsin11:Mohsin11@shoppinglist-lycky.mongodb.net/test?retryWrites=true&w=majority'
 }
